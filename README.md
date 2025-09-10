@@ -28,7 +28,7 @@ The project is implemented using **Python** for the application and **Arduino** 
 - **Efficiency:** Optimized storage for maze and result files.
 - **Usability:** Intuitive interface for easy learning and experimentation.
 
-![Screenshot of Maze Application](Images/maze.png)
+![Screenshot of Maze Application](images/screenshot1.png)
 
 ---
 
@@ -48,4 +48,4 @@ The project is implemented using **Python** for the application and **Arduino** 
 - **Portability & Reliability:** Robot can be programmed and tested on major OSs and reliably complete maze tasks.
 - **Usability & Learnability:** Designed to be intuitive and simple for anyone to operate.
 
-![Screenshot of Robot Prototype](Images/robot.png)
+![Screenshot of Robot Prototype](images/screenshot2.png)
